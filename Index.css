@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;}
+
+html{
+    background-image: url(basket-bandana.jpg);
+    background-repeat:cover;
+}
+ 
+
+button{
+    margin-top: 130px;
+    height: 50px;
+    width: 80px;
+    margin-left: 630px;
+    border: 0;
+    border-radius: 10px;
+    background:transparent;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    font-size xx-large;
+    color: black;
+    
+
+    
+    
+}
+
+
+button:hover{
+    
+    color: black;
+    text-decoration-color: black;
+    
+}
+
+a:link{
+    color:black;
+    
+}
